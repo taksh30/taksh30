@@ -14,9 +14,7 @@
 
 ## GitHub Stats
 
-![Taksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=taksh30&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taksh30&layout=compact&theme=radical)
+![Taksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=taksh30&show_icons=true&theme=transparent)
 
 ## Connect with Me
 
