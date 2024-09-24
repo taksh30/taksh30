@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing applications for mobile, desktop & web using Flutter.
 - 🌱 I’m currently learning advanced Flutter techniques.
 - 💞️ I’m looking to collaborate on exciting open-source Flutter projects.
-- 📫 How to reach me [taksh2595@gmail.com](mailto:taksh2595@gmail.com)
+- 📫 How to reach me [taksh2595@gmail.com](mailto:taksh2595@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/takshpanchal959).
 
 - ## Technologies and Tools
 
@@ -19,6 +19,8 @@
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taksh30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/takshpanchal959)
+
 
 <!---
 taksh30/taksh30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
