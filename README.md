@@ -15,8 +15,7 @@
 ## GitHub Stats
 
 ![Taksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=taksh30&show_icons=true&theme=transparent)
-[![Total Contributions](https://github-readme-stats.vercel.app/api/?username=taksh30&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide=issues,prs)](https://github.com/taksh30/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taksh30&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with Me
 
