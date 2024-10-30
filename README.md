@@ -1,6 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=taksh30&color=0A66C2)
-
-
 - 👋 Hi, I’m Taksh Panchal
 - 👀 I’m interested in developing applications for mobile, desktop & web using Flutter.
 - 🌱 I’m currently learning advanced Flutter techniques.
